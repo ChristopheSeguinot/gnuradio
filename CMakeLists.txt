@@ -4,6 +4,7 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 #
+# Dummy branch toto
 
 ########################################################################
 if(${CMAKE_SOURCE_DIR} STREQUAL ${CMAKE_BINARY_DIR})
